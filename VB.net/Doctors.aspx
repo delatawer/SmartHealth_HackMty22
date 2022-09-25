@@ -35,7 +35,7 @@
             <h1>SmartHealth</h1>
             <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Agendar</a>
+          <a class="nav-link active" aria-current="page" href="Agendar.aspx">Agendar</a>
         </li>
                 </ul>
         </nav>
@@ -67,7 +67,20 @@
   </Columns>
 </asp:GridView>
 
-
+        <asp:GridView ID="GridView2" runat="server" class="table" ShowHeaderWhenEmpty="true"  AutoGenerateColumns="False" >
+            <HeaderStyle 
+                BackColor="Blue" 
+                Font-Italic="false"
+                ForeColor="snow"
+                />
+   <Columns>
+     <asp:BoundField DataField="nombrePaciente" HeaderText="Nombre del Paciente"  />
+     <asp:BoundField DataField="Fecha" HeaderText="Fecha" DataFormatString = "{0:dd/MM/yyyy}"/>
+     <asp:BoundField DataField="hora" HeaderText="Hora" />
+       
+     
+  </Columns>
+</asp:GridView>
 
     </form>
     <!-- JavaScript Bundle with Popper -->

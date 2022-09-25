@@ -30,21 +30,22 @@
         </asp:ScriptManager>
         <div>
             <div class="input-group flex-nowrap">
-                <span class="input-group-text" id="addon-wrapping">@</span>
-                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="addon-wrapping">
+                <span class="input-group-text w-20" style="width:200px" id="addon-wrapping">Nombre Paciente</span>
+                <input type="text" id="inputPaciente" runat="server" class="form-control" placeholder="Nombre" aria-label="Nombre" aria-describedby="addon-wrapping">
             </div>
             <div class="input-group flex-nowrap">
-                <span class="input-group-text" id="addon-wrapping">@</span>
-                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="addon-wrapping">
+                <span class="input-group-text"style="width:200px" id="addon-wrapping">Fecha</span>
+                <input type="text" id="inputFecha" runat="server" class="form-control" placeholder="aaaa-mm-dd" aria-label="Username" aria-describedby="addon-wrapping">
             </div>
             <div class="input-group flex-nowrap">
-                <span class="input-group-text" id="addon-wrapping">@</span>
-                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="addon-wrapping">
+                <span class="input-group-text w-20" style="width:200px" id="addon-wrapping">Hora</span>
+                <input type="text" id="inputHora" runat="server" class="form-control" placeholder="00:00" aria-label="Username" aria-describedby="addon-wrapping">
             </div>
             <div class="input-group flex-nowrap">
-                <span class="input-group-text" id="addon-wrapping">@</span>
-                <input type="text" class="form-control" placeholder="Username" aria-label="Username" aria-describedby="addon-wrapping">
+                <span class="input-group-text w-20"style="width:200px" id="addon-wrapping">Doctor</span>
+                <input type="text" id="inputDoctor" runat="server" class="form-control" placeholder="Nombre" aria-label="Username" aria-describedby="addon-wrapping">
             </div>
+            <asp:Button Text="Submit" runat="server" OnClick="Unnamed_Click" type="button" class="btn btn-primary" />
         </div>
     </form>
     <!-- JavaScript Bundle with Popper -->

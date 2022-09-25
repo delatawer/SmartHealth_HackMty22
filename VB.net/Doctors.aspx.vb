@@ -6,9 +6,11 @@ Public Class Doctors
     Inherits System.Web.UI.Page
     Dim connString As String = "Server=tcp:smarthealthdb.database.windows.net,1433;Initial Catalog=SmarthHealth_DB;Persist Security Info=False;User ID=SmarthHealthDB;Password=5rUBXEMSREBsRzZ;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
     Dim dt As New DataTable
+    Dim dt2 As New DataTable
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
         If Not Me.IsPostBack Then
             Me.BindGrid()
+            Me.BindGrid2()
         End If
     End Sub
 
@@ -22,6 +24,23 @@ Public Class Doctors
                     Try
                         GridView1.DataSource = dt
                         GridView1.DataBind()
+                    Catch ex As Exception
+
+                    End Try
+                End Using
+            End Using
+        End Using
+
+    End Sub
+    Private Sub BindGrid2()
+        Using conn As New SqlConnection(connString)
+            Using cmd As New SqlCommand("getAgenda", conn)
+                cmd.CommandType = System.Data.CommandType.StoredProcedure
+                Using sda As New SqlDataAdapter(cmd)
+                    sda.Fill(dt2)
+                    Try
+                        GridView2.DataSource = dt2
+                        GridView2.DataBind()
                     Catch ex As Exception
 
                     End Try
