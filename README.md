@@ -20,9 +20,9 @@ SQL via Azure SQL
 <img width="1281" alt="Captura de Pantalla 2022-09-25 a la(s) 11 54 29" src="https://user-images.githubusercontent.com/114344715/192155519-059cd61f-bfaa-438e-85a6-c70be8efbc62.png">
 <img width="1282" alt="Captura de Pantalla 2022-09-25 a la(s) 11 54 50" src="https://user-images.githubusercontent.com/114344715/192155533-19a68fb8-ea95-4f2f-81e8-b788ea97e212.png">
 <img width="1280" alt="Captura de Pantalla 2022-09-25 a la(s) 11 55 07" src="https://user-images.githubusercontent.com/114344715/192155550-11a90f93-cea4-4ea1-940e-982b853f2aee.png">
-<img width="880" alt="Captura de Pantalla 2022-09-25 a la(s) 11 55 33" src="https://user-images<img width="1277" alt="Captura de Pantalla 2022-09-25 a la(s) 11 56 01" src="https://user-images.githubusercontent.com/114344715/192155579-c2d3a58b-6032-4eea-9969-ea91a228dec2.png">
-.githubusercontent.com/114344715/192155562-d4d02bc7-0581-4667-9866-ded0543780f0.png">
-<img width="1283" alt="Captura de Pantalla 2022-09-25 a la(s) 11 55 47" src="https://user-ima<img wid<img width="614" alt="Captura de Pantalla 2022-09-25 a la(s) 11 56 44" src="https://user-images.githubusercontent.com/114344715/192155606-5893a890-9959-456f-9ef8-926ac545aac0.png">
-th="1273" alt="Captura de Pantalla 2022-09-25 a la(s) 11 56 14" src="https://user-images.githubusercontent.com/114344715/192155582-9e03b31b-2d94-4c9f-
-ges.githubusercontent.com/114344715/192155569-65f7e6a2-bdc4-45c3-bd20-bb<img width="559" alt="Captura de Pantalla 2022-09-25 a la(s) 11 59 20" src="https://user-images.githubusercontent.com/114344715/192155721-e564f43d-6355-4f80-8993-55bdda589a3e.png">
-fd001e6ae3.png">
+<img width="880" alt="Captura de Pantalla 2022-09-25 a la(s) 12 01 10" src="https://user-images.githubusercontent.com/114344715/192155804-1fd0aa26-f3b0-4dfb-ac73-64cc5fd8815e.png">
+<img width="1286" alt="Captura de Pantalla 2022-09-25 a la(s) 12 01 29" src="https://user-images.githubusercontent.com/114344715/192155818-af1c87a2-b9d2-4664-ae71-7e214a3ad9a6.png">
+<img width="1283" alt="Captura de Pantalla 2022-09-25 a la(s) 12 01 41" src="https://user-images.githubusercontent.com/114344715/192155828-f901d9d5-419f-4067-bc4a-9d1631b319cb.png">
+<img width="1278" alt="Captura de Pantalla 2022-09-25 a la(s) 12 01 52" src="https://user-images.githubusercontent.com/114344715/192155834-2967780f-5833-4ea3-89b1-33f89e8e3c48.png">
+<img width="1166" alt="Captura de Pantalla 2022-09-25 a la(s) 12 02 11" src="https://user-images.githubusercontent.com/114344715/192155864-3dda2c9e-f9d7-4fdd-97fa-41b5053ec424.png">
+<img width="561" alt="Captura de Pantalla 2022-09-25 a la(s) 12 02 25" src="https://user-images.githubusercontent.com/114344715/192155875-912efbfb-023e-4eb2-a94b-cb332b5bfa4a.png">
