@@ -14,3 +14,15 @@ Al medir valores como es la saturación de oxígeno y la frecuencia cardiaca se 
 ![imagen](https://user-images.githubusercontent.com/85259381/192143545-7bf85b25-323f-4ac4-aa15-d2c76c27b4b9.png)
 SQL via Azure SQL 
 
+<img width="1285" alt="Captura de Pantalla 2022-09-25 a la(s) 11 53 39" src="https://user-images.githubusercontent.com/114344715/192155479-9e001671-33a7-4ea8-afef-787c247c7166.png">
+<img width="1282" alt="Captura de Pantalla 2022-09-25 a la(s) 11 54 00" src="https://user-images.githubusercontent.com/114344715/192155497-69b58205-aef3-4e5a-b407-d9066ecb37b9.png">
+<img width="1282" alt="Captura de Pantalla 2022-09-25 a la(s) 11 54 17" src="https://user-images.githubusercontent.com/114344715/192155506-69b0d6be-b532-4dcc-b7c1-e16af8cc6f70.png">
+<img width="1281" alt="Captura de Pantalla 2022-09-25 a la(s) 11 54 29" src="https://user-images.githubusercontent.com/114344715/192155519-059cd61f-bfaa-438e-85a6-c70be8efbc62.png">
+<img width="1282" alt="Captura de Pantalla 2022-09-25 a la(s) 11 54 50" src="https://user-images.githubusercontent.com/114344715/192155533-19a68fb8-ea95-4f2f-81e8-b788ea97e212.png">
+<img width="1280" alt="Captura de Pantalla 2022-09-25 a la(s) 11 55 07" src="https://user-images.githubusercontent.com/114344715/192155550-11a90f93-cea4-4ea1-940e-982b853f2aee.png">
+<img width="880" alt="Captura de Pantalla 2022-09-25 a la(s) 11 55 33" src="https://user-images<img width="1277" alt="Captura de Pantalla 2022-09-25 a la(s) 11 56 01" src="https://user-images.githubusercontent.com/114344715/192155579-c2d3a58b-6032-4eea-9969-ea91a228dec2.png">
+.githubusercontent.com/114344715/192155562-d4d02bc7-0581-4667-9866-ded0543780f0.png">
+<img width="1283" alt="Captura de Pantalla 2022-09-25 a la(s) 11 55 47" src="https://user-ima<img wid<img width="614" alt="Captura de Pantalla 2022-09-25 a la(s) 11 56 44" src="https://user-images.githubusercontent.com/114344715/192155606-5893a890-9959-456f-9ef8-926ac545aac0.png">
+th="1273" alt="Captura de Pantalla 2022-09-25 a la(s) 11 56 14" src="https://user-images.githubusercontent.com/114344715/192155582-9e03b31b-2d94-4c9f-970<img width="1168" alt="Captura de Pantalla 2022-09-25 a la(s) 11 56 31" src="https://user-images.githubusercontent.com/114344715/192155596-93db5f24-fa0a-427c-8ae2-ba15265266b9.png">
+6-47e93cea7583.png">
+ges.githubusercontent.com/114344715/192155569-65f7e6a2-bdc4-45c3-bd20-bbfd001e6ae3.png">
