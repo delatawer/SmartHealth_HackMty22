@@ -23,6 +23,6 @@ SQL via Azure SQL
 <img width="880" alt="Captura de Pantalla 2022-09-25 a la(s) 11 55 33" src="https://user-images<img width="1277" alt="Captura de Pantalla 2022-09-25 a la(s) 11 56 01" src="https://user-images.githubusercontent.com/114344715/192155579-c2d3a58b-6032-4eea-9969-ea91a228dec2.png">
 .githubusercontent.com/114344715/192155562-d4d02bc7-0581-4667-9866-ded0543780f0.png">
 <img width="1283" alt="Captura de Pantalla 2022-09-25 a la(s) 11 55 47" src="https://user-ima<img wid<img width="614" alt="Captura de Pantalla 2022-09-25 a la(s) 11 56 44" src="https://user-images.githubusercontent.com/114344715/192155606-5893a890-9959-456f-9ef8-926ac545aac0.png">
-th="1273" alt="Captura de Pantalla 2022-09-25 a la(s) 11 56 14" src="https://user-images.githubusercontent.com/114344715/192155582-9e03b31b-2d94-4c9f-970<img width="1168" alt="Captura de Pantalla 2022-09-25 a la(s) 11 56 31" src="https://user-images.githubusercontent.com/114344715/192155596-93db5f24-fa0a-427c-8ae2-ba15265266b9.png">
-6-47e93cea7583.png">
-ges.githubusercontent.com/114344715/192155569-65f7e6a2-bdc4-45c3-bd20-bbfd001e6ae3.png">
+th="1273" alt="Captura de Pantalla 2022-09-25 a la(s) 11 56 14" src="https://user-images.githubusercontent.com/114344715/192155582-9e03b31b-2d94-4c9f-
+ges.githubusercontent.com/114344715/192155569-65f7e6a2-bdc4-45c3-bd20-bb<img width="559" alt="Captura de Pantalla 2022-09-25 a la(s) 11 59 20" src="https://user-images.githubusercontent.com/114344715/192155721-e564f43d-6355-4f80-8993-55bdda589a3e.png">
+fd001e6ae3.png">
