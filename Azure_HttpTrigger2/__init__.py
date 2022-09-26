@@ -6,9 +6,9 @@ import azure.functions as func
 
 # Configure email headers 
 email_subject = "Alerta!" 
-sender_email_address = "fridainiesta01@outlook.com" 
-email_password = "aDFD&2501"
-receiver_email_address = "tinix78924@orlydns.com" 
+sender_email_address = "email@outlook.com" 
+email_password = "password"
+receiver_email_address = "receiver_email@any.com" 
 email_smtp = "smtp-mail.outlook.com" 
 
 
